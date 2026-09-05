@@ -1,5 +1,3 @@
-const apiKey = "sk_live_51Hxxxxxxxxxxxxxxxxxxxxxxxxx"; // avers
-
 function calculateTotal(price, tax) {
   return price + tax;
 }
