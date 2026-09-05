@@ -1,4 +1,4 @@
-const apiKey = "sk_live_51Hxxxxxxxxxxxxxxxxxxxxxxxxx"; // secreto de prueba, se borra después 
+const apiKey = "sk_live_51Hxxxxxxxxxxxxxxxxxxxxxxxxx";
 
 function calculateTotal(price, tax) {
   return price + tax;
